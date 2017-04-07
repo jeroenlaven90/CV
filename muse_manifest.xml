@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jeroenlaven.nl" resolutions="1x,2x" timestamp="1491604709914">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jeroenlaven.nl" resolutions="1x,2x" timestamp="1491606148085">
   <folder name="css">
     <file name="site_global.css" crc="4133157242"/>
-    <file name="index.css" crc="20388169" ref="index"/>
-    <file name="nomq_index.css" crc="434625300" ref="index"/>
+    <file name="index.css" crc="4192061447" ref="index"/>
+    <file name="nomq_index.css" crc="288646402" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="maisonneue-bold.woff" crc="370265925"/>
@@ -39,6 +39,7 @@
     <file name="bg-page-fr_2x3.jpg" crc="4056126659" ref="index"/>
     <file name="bg-page-fr4.jpg" crc="4264693428" ref="index"/>
     <file name="bg-page-fr_2x4.jpg" crc="429756596" ref="index"/>
+    <file name="favicon.ico" crc="276141252" ref="index"/>
   </folder>
-  <file name="index.html" crc="190941765" seo="true" mt="1491604691307" redirect="true"/>
+  <file name="index.html" crc="2757152" seo="true" mt="1491606136237" redirect="true"/>
 </manifest>
