@@ -1,0 +1,44 @@
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jeroenlaven.nl" resolutions="1x,2x" timestamp="1491604709914">
+  <folder name="css">
+    <file name="site_global.css" crc="4133157242"/>
+    <file name="index.css" crc="20388169" ref="index"/>
+    <file name="nomq_index.css" crc="434625300" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="maisonneue-bold.woff" crc="370265925"/>
+    <file name="maisonneue-bold.eot" crc="406442649"/>
+    <file name="maisonneue-bold.svg" crc="531140863"/>
+    <file name="maisonneue-book.woff" crc="4010992158"/>
+    <file name="maisonneue-book.eot" crc="3876295547"/>
+    <file name="maisonneue-book.svg" crc="81543290"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="4232573551" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4152223963" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
+    <file name="jquery.watch.js" crc="3844535323" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index"/>
+    <file name="require.js" crc="4234670167" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="bg.jpg" crc="305349092" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="bg_2x.jpg" crc="493438828" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo.svg" crc="492403515" ref="index"/>
+    <file name="logo_poster_u445.png" crc="301720408" ref="index"/>
+    <file name="bg-page-fr.jpg" crc="3801239589" ref="index"/>
+    <file name="bg-page-fr_2x.jpg" crc="251538857" ref="index"/>
+    <file name="bg-page-fr2.jpg" crc="292490640" ref="index"/>
+    <file name="bg-page-fr_2x2.jpg" crc="513355064" ref="index"/>
+    <file name="bg-page-fr3.jpg" crc="3818715164" ref="index"/>
+    <file name="bg-page-fr_2x3.jpg" crc="4056126659" ref="index"/>
+    <file name="bg-page-fr4.jpg" crc="4264693428" ref="index"/>
+    <file name="bg-page-fr_2x4.jpg" crc="429756596" ref="index"/>
+  </folder>
+  <file name="index.html" crc="190941765" seo="true" mt="1491604691307" redirect="true"/>
+</manifest>
